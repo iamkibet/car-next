@@ -29,7 +29,7 @@ export const Hero = () => {
                 <div className='hero__image'>
                     <Image src="/hero.png" alt='hero' fill className='object-contain' />
 
-                    <div className='hero__image-overlay' />
+                    < div className='hero__image-overlay' />
                 </div>
             </div>
         </div>
